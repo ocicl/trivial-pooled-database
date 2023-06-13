@@ -1,0 +1,10 @@
+* trivial-pooled-database
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/ediethelm/trivial-pooled-database.git   |
+| commit  | {"messa  |
+| systems | trivial-pooled-database |
+|---------+-------------------------------------------|
+
