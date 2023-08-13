@@ -2,8 +2,9 @@
 
 A Common Lisp library that provides a multi-threaded DB connection pool.
 
+
 |---------+--------------------------------------------------------------|
 | source  | git:https://gitlab.com/ediethelm/trivial-pooled-database.git |
-| commit  | 37a74d9104ac6a12ed2bec26d4b56eb08cf5b3a8                     |
+| commit  | 37a74d9                                                      |
 | systems | trivial-pooled-database                                      |
 |---------+--------------------------------------------------------------|
